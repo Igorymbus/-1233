@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.AssemblyInfo.cs
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Пара\Пара\bin\Debug\net7.0\Пара.exe
+C:\Users\user\source\repos\Пара\Пара\bin\Debug\net7.0\Пара.deps.json
+C:\Users\user\source\repos\Пара\Пара\bin\Debug\net7.0\Пара.runtimeconfig.json
+C:\Users\user\source\repos\Пара\Пара\bin\Debug\net7.0\Пара.dll
+C:\Users\user\source\repos\Пара\Пара\bin\Debug\net7.0\Пара.pdb
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.dll
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\refint\Пара.dll
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.pdb
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\Пара.genruntimeconfig.cache
+C:\Users\user\source\repos\Пара\Пара\obj\Debug\net7.0\ref\Пара.dll

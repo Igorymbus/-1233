@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Пара2\Пара2\obj\Debug\net7.0\Пара2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Пара2\Пара2\obj\Debug\net7.0\Пара2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Пара2\Пара2\obj\Debug\net7.0\Пара2.AssemblyInfo.cs
+C:\Users\user\source\repos\Пара2\Пара2\obj\Debug\net7.0\Пара2.csproj.CoreCompileInputs.cache
